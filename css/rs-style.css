@@ -1,0 +1,14 @@
+.rs-sticky-update-button-section.stk-active {
+	background: #fcfcfc;
+	height: 55px;
+	position: fixed;
+	z-index: 999;
+	width: 100%;
+}
+input#publish.stk-active-update {
+	position: fixed;
+	top: 0;
+	z-index: 9999;
+	right: 34px;
+	top: 42px;
+}
